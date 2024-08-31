@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+App-header {
+  color: #282c34;
+
+}
+.App-header {
+  color:#282c34;
+}
+
+.clearbtn{
+  background-color: #282c34;
+  font-size: 20px;
+  color: white;
+  padding: 10px 20px;
+  border:none;
+  border-radius: 10px;
+  cursor: pointer;
+}
